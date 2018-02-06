@@ -1820,7 +1820,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff2fd5;
+  background: #838b39;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2786,6 +2786,4 @@ pre .javascript .function {
 a.post-title-link,
 h2.post-title {
   font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
-  font-weight: 700 !important;
 }

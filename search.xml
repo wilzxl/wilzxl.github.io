@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[test]]></title>
       <url>/test/</url>
-      <content type="html"><![CDATA[<p style="font-family: 'Droid Serif',Georgia,serif;"> Just a test!</p>
+      <content type="html"><![CDATA[<p class="myPara"> Just a test!</p>
 ]]></content>
       
         <categories>
@@ -46,7 +46,8 @@
     <entry>
       <title><![CDATA[about]]></title>
       <url>/about/index.html</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p style="font-family: 'Droid Serif',Georgia,serif;"><br>My name is Wil Zhang and I am a web developer as well as a data geek. This is my personal blog and I write here about some issues/bugs encountered during my coding, welcome to discuss.<br></p>
+]]></content>
     </entry>
     
     <entry>

@@ -5,7 +5,8 @@
     <entry>
       <title><![CDATA[test]]></title>
       <url>/test/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<p style="font-family: 'Droid Serif',Georgia,serif;"> Just a test!</p>
+]]></content>
       
         <categories>
             
@@ -43,6 +44,12 @@
   
     
     <entry>
+      <title><![CDATA[about]]></title>
+      <url>/about/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title></title>
       <url>/categories/index.html</url>
       <content type="html"></content>
@@ -51,12 +58,6 @@
     <entry>
       <title></title>
       <url>/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[about]]></title>
-      <url>/about/index.html</url>
       <content type="html"></content>
     </entry>
     

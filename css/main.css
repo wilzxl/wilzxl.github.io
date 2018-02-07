@@ -1737,6 +1737,11 @@ pre .javascript .function {
   max-width: 120px;
   height: auto;
   border: 1px solid #eee;
+  border-radius: 50%;
+  webkit-transition: 1.4s all;
+  moz-transition: 1.4s all;
+  ms-transition: 1.4s all;
+  transition: 1.4s all;
 }
 .site-author-name {
   margin: 0;
@@ -1749,6 +1754,17 @@ pre .javascript .function {
   text-align: center;
   font-size: 13px;
   color: #999;
+}
+.site-author-image:hover {
+  background-color: #55dae1;
+  webkit-transform: rotate(360deg) scale(1.05);
+  moz-transform: rotate(360deg) scale(1.05);
+  ms-transform: rotate(360deg) scale(1.05);
+  -webkit-transform: rotate(360deg) scale(1.05);
+  -moz-transform: rotate(360deg) scale(1.05);
+  -ms-transform: rotate(360deg) scale(1.05);
+  -o-transform: rotate(360deg) scale(1.05);
+  transform: rotate(360deg) scale(1.05);
 }
 .site-state {
   overflow: hidden;
@@ -1820,7 +1836,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #838b39;
+  background: #ff3c55;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2786,4 +2802,11 @@ pre .javascript .function {
 a.post-title-link,
 h2.post-title {
   font-family: 'Open Sans', sans-serif;
+}
+.site-author-image {
+  margin-top: 15px;
+}
+.site-title {
+  font-size: 40px;
+  font-family: 'Nanum Pen Script', cursive;
 }

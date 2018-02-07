@@ -3,28 +3,6 @@
   
     
     <entry>
-      <title><![CDATA[test1]]></title>
-      <url>/2018/test1/</url>
-      <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>hahhahah </p>
-</blockquote>
-]]></content>
-      
-        <categories>
-            
-            <category> test </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> test </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[test]]></title>
       <url>/2018/test/</url>
       <content type="html"><![CDATA[<p class="myPara"> Just a test!</p>
@@ -82,13 +60,13 @@
     
     <entry>
       <title></title>
-      <url>/tags/index.html</url>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title></title>
-      <url>/categories/index.html</url>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     

@@ -3,31 +3,10 @@
   
     
     <entry>
-      <title><![CDATA[hh]]></title>
-      <url>/2018/hh/</url>
-      <content type="html"><![CDATA[<img src="/2018/hh/img1.jpg" title="This is an example image">
-]]></content>
-      
-        <categories>
-            
-            <category> a </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> a </tag>
-            
-        </tags>
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[Test for Markdown Grammer]]></title>
       <url>/2018/test/</url>
       <content type="html"><![CDATA[<img src="/2018/test/img1.jpg" title="This is an example image">
-<p></p><p class="myPara"> Just a test!</p><br>Table：XMLHttpRequest.readyState<p></p>
+<p></p><p class="myPara"> Just a test!</p><br><a id="more"></a><br>Table：XMLHttpRequest.readyState<p></p>
 <table>
 <thead>
 <tr>
@@ -64,7 +43,6 @@
 </tr>
 </tbody>
 </table>
-<a id="more"></a>
 <h2 id="Head-1"><a href="#Head-1" class="headerlink" title="Head 1"></a>Head 1</h2><h3 id="Head-2"><a href="#Head-2" class="headerlink" title="Head 2"></a>Head 2</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p><a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Link</a></p>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>

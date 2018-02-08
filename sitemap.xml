@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wilzxl.github.io/2018/hh/</loc>
+    
+    <lastmod>2018-02-08T06:30:00.771Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wilzxl.github.io/2018/test/</loc>
     
-    <lastmod>2018-02-08T02:02:32.292Z</lastmod>
+    <lastmod>2018-02-08T06:12:39.406Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>http://wilzxl.github.io/about/index.html</loc>
     
     <lastmod>2018-02-07T23:57:37.187Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wilzxl.github.io/2018/hello-world/</loc>
-    
-    <lastmod>2018-02-07T00:04:14.979Z</lastmod>
     
   </url>
   

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wilzxl.github.io/"/>
-  <updated>2018-02-08T02:02:32.292Z</updated>
+  <updated>2018-02-08T06:30:00.771Z</updated>
   <id>http://wilzxl.github.io/</id>
   
   <author>
@@ -17,55 +17,88 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://wilzxl.github.io/2018/test/"/>
-    <id>http://wilzxl.github.io/2018/test/</id>
-    <published>2018-02-03T05:20:05.000Z</published>
-    <updated>2018-02-08T02:02:32.292Z</updated>
+    <title>hh</title>
+    <link href="http://wilzxl.github.io/2018/hh/"/>
+    <id>http://wilzxl.github.io/2018/hh/</id>
+    <published>2018-02-08T06:23:31.000Z</published>
+    <updated>2018-02-08T06:30:00.771Z</updated>
     
-    <content type="html"><![CDATA[<p></p><p class="myPara"> Just a test!</p><br>表：XMLHttpRequest的readyState值<p></p><table><thead><tr><th style="text-align:center">常量</th><th style="text-align:center">值</th><th style="text-align:center">含义</th></tr></thead><tbody><tr><td style="text-align:center">UNSENT</td><td style="text-align:center">0</td><td style="text-align:center">open()尚未调用</td></tr><tr><td style="text-align:center">OPENED</td><td style="text-align:center">1</td><td style="text-align:center">open()已经调用</td></tr><tr><td style="text-align:center">HEADERS_RECEIVED</td><td style="text-align:center">2</td><td style="text-align:center">接收到头信息</td></tr><tr><td style="text-align:center">LOADING</td><td style="text-align:center">3</td><td style="text-align:center">接收到响应主体</td></tr><tr><td style="text-align:center">DONE</td><td style="text-align:center">4</td><td style="text-align:center">响应完成</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2018/hh/img1.jpg" alt=""></p><img src="/2018/hh/img1.jpg" title="This is an example image">]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;myPara&quot;&gt; Just a test!&lt;/p&gt;&lt;br&gt;表：XMLHttpRequest的readyState值&lt;p&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;常量&lt;/th&gt;
+        &lt;p&gt;&lt;img src=&quot;/2018/hh/img1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;img src=&quot;/2018/hh/img1.jpg&quot; title=&quot;This is an example image&quot;&gt;
+
       
     
     </summary>
     
-      <category term="cat" scheme="http://wilzxl.github.io/categories/cat/"/>
+      <category term="a" scheme="http://wilzxl.github.io/categories/a/"/>
     
     
-      <category term="tag1" scheme="http://wilzxl.github.io/tags/tag1/"/>
+      <category term="a" scheme="http://wilzxl.github.io/tags/a/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://wilzxl.github.io/2018/hello-world/"/>
-    <id>http://wilzxl.github.io/2018/hello-world/</id>
-    <published>2018-02-03T05:00:05.000Z</published>
-    <updated>2018-02-07T00:04:14.979Z</updated>
+    <title>Test for Markdown Grammer</title>
+    <link href="http://wilzxl.github.io/2018/test/"/>
+    <id>http://wilzxl.github.io/2018/test/</id>
+    <published>2018-02-03T05:20:05.000Z</published>
+    <updated>2018-02-08T06:12:39.406Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a><br><a id="more"></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/img1.jpg" alt=""></p><p></p><p class="myPara"> Just a test!</p><br>Table：XMLHttpRequest.readyState<p></p><table><thead><tr><th style="text-align:center">constant</th><th style="text-align:center">value</th><th style="text-align:center">mean</th></tr></thead><tbody><tr><td style="text-align:center">UNSENT</td><td style="text-align:center">0</td><td style="text-align:center">Client has been created. open() not called yet</td></tr><tr><td style="text-align:center">OPENED</td><td style="text-align:center">1</td><td style="text-align:center">open() has been called</td></tr><tr><td style="text-align:center">HEADERS_RECEIVED</td><td style="text-align:center">2</td><td style="text-align:center">send() has been called, and headers and status are available</td></tr><tr><td style="text-align:center">LOADING</td><td style="text-align:center">3</td><td style="text-align:center">Downloading; responseText holds partial data</td></tr><tr><td style="text-align:center">DONE</td><td style="text-align:center">4</td><td style="text-align:center">The operation is complete</td></tr></tbody></table><a id="more"></a><h2 id="Head-1"><a href="#Head-1" class="headerlink" title="Head 1"></a>Head 1</h2><h3 id="Head-2"><a href="#Head-2" class="headerlink" title="Head 2"></a>Head 2</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p><a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Link</a></p><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><blockquote><p>citation</p></blockquote><ul><li>one</li><li>two</li></ul><ol><li>one</li><li>two</li></ol><ul><li>Coding.net有以下主要功能:<blockquote><p>代码托管平台<br>在线运行环境<br>代码质量监控<br>项目管理平台</p></blockquote></li></ul><p><strong>bold</strong><br><em>curve</em><br><img src="/2018/test/img1.jpg" title="This is an example image"></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Writing&lt;/a&gt;&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;/img1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;myPara&quot;&gt; Just a test!&lt;/p&gt;&lt;br&gt;Table：XMLHttpRequest.readyState&lt;p&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;constant&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;value&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;mean&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;UNSENT&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;0&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;Client has been created. open() not called yet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;OPENED&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;1&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;open() has been called&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;HEADERS_RECEIVED&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;2&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;send() has been called, and headers and status are available&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;LOADING&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;3&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;Downloading; responseText holds partial data&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;DONE&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;4&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;The operation is complete&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
     
     </summary>
     
+      <category term="test" scheme="http://wilzxl.github.io/categories/test/"/>
     
-      <category term="hexo" scheme="http://wilzxl.github.io/tags/hexo/"/>
     
-      <category term="instruction" scheme="http://wilzxl.github.io/tags/instruction/"/>
+      <category term="test, markdown" scheme="http://wilzxl.github.io/tags/test-markdown/"/>
     
   </entry>
   

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wilzxl.github.io/"/>
-  <updated>2018-02-06T23:55:32.395Z</updated>
+  <updated>2018-02-08T02:02:32.292Z</updated>
   <id>http://wilzxl.github.io/</id>
   
   <author>
@@ -21,16 +21,19 @@
     <link href="http://wilzxl.github.io/2018/test/"/>
     <id>http://wilzxl.github.io/2018/test/</id>
     <published>2018-02-03T05:20:05.000Z</published>
-    <updated>2018-02-06T23:55:32.395Z</updated>
+    <updated>2018-02-08T02:02:32.292Z</updated>
     
-    <content type="html"><![CDATA[<p class="myPara"> Just a test!</p>]]></content>
+    <content type="html"><![CDATA[<p></p><p class="myPara"> Just a test!</p><br>表：XMLHttpRequest的readyState值<p></p><table><thead><tr><th style="text-align:center">常量</th><th style="text-align:center">值</th><th style="text-align:center">含义</th></tr></thead><tbody><tr><td style="text-align:center">UNSENT</td><td style="text-align:center">0</td><td style="text-align:center">open()尚未调用</td></tr><tr><td style="text-align:center">OPENED</td><td style="text-align:center">1</td><td style="text-align:center">open()已经调用</td></tr><tr><td style="text-align:center">HEADERS_RECEIVED</td><td style="text-align:center">2</td><td style="text-align:center">接收到头信息</td></tr><tr><td style="text-align:center">LOADING</td><td style="text-align:center">3</td><td style="text-align:center">接收到响应主体</td></tr><tr><td style="text-align:center">DONE</td><td style="text-align:center">4</td><td style="text-align:center">响应完成</td></tr></tbody></table>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p class=&quot;myPara&quot;&gt; Just a test!&lt;/p&gt;
-
+        &lt;p&gt;&lt;/p&gt;&lt;p class=&quot;myPara&quot;&gt; Just a test!&lt;/p&gt;&lt;br&gt;表：XMLHttpRequest的readyState值&lt;p&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;常量&lt;/th&gt;
       
     
     </summary>

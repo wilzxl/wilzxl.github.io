@@ -5,7 +5,43 @@
     <entry>
       <title><![CDATA[test]]></title>
       <url>/2018/test/</url>
-      <content type="html"><![CDATA[<p class="myPara"> Just a test!</p>
+      <content type="html"><![CDATA[<p></p><p class="myPara"> Just a test!</p><br>表：XMLHttpRequest的readyState值<p></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">常量</th>
+<th style="text-align:center">值</th>
+<th style="text-align:center">含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">UNSENT</td>
+<td style="text-align:center">0</td>
+<td style="text-align:center">open()尚未调用</td>
+</tr>
+<tr>
+<td style="text-align:center">OPENED</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">open()已经调用</td>
+</tr>
+<tr>
+<td style="text-align:center">HEADERS_RECEIVED</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">接收到头信息</td>
+</tr>
+<tr>
+<td style="text-align:center">LOADING</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">接收到响应主体</td>
+</tr>
+<tr>
+<td style="text-align:center">DONE</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">响应完成</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
       
         <categories>

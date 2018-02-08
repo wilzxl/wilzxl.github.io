@@ -52,16 +52,16 @@
   
     
     <entry>
+      <title></title>
+      <url>/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[About]]></title>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p style="font-family: 'Droid Serif',Georgia,serif;"><br>My name is Wil Zhang and I am a web developer as well as a data geek. This is my personal blog and I write here about some issues/bugs encountered during my coding, welcome to discuss.<br></p>
 ]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>/categories/index.html</url>
-      <content type="html"></content>
     </entry>
     
     <entry>

@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[Test for Markdown Grammer]]></title>
       <url>/2018/test/</url>
-      <content type="html"><![CDATA[<p><img src="/test/img1.jpg" width="600" height="400" title="test"><br><a id="more"></a></p>
+      <content type="html"><![CDATA[<p><img src="/images/laptop.jpg" width="600" height="400" title="test"><br><a id="more"></a></p>
 <p>Another way to show images but can’t adjust size<br><img src="/2018/test/img1.jpg" title="This is an example image"></p>
 <p></p><p class="myPara"> Just a test!</p><br>Table：XMLHttpRequest.readyState<p></p>
 <table>
@@ -96,13 +96,13 @@
     
     <entry>
       <title></title>
-      <url>/categories/index.html</url>
+      <url>/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
     <entry>
       <title></title>
-      <url>/tags/index.html</url>
+      <url>/categories/index.html</url>
       <content type="html"></content>
     </entry>
     

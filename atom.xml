@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wilzxl.github.io/"/>
-  <updated>2018-02-08T06:30:00.771Z</updated>
+  <updated>2018-02-08T06:35:23.018Z</updated>
   <id>http://wilzxl.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://wilzxl.github.io/2018/hh/"/>
     <id>http://wilzxl.github.io/2018/hh/</id>
     <published>2018-02-08T06:23:31.000Z</published>
-    <updated>2018-02-08T06:30:00.771Z</updated>
+    <updated>2018-02-08T06:35:23.018Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2018/hh/img1.jpg" alt=""></p><img src="/2018/hh/img1.jpg" title="This is an example image">]]></content>
+    <content type="html"><![CDATA[<p><img src="/img1.jpg" alt=""></p><img src="/2018/hh/img1.jpg" title="This is an example image">]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/2018/hh/img1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/img1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;img src=&quot;/2018/hh/img1.jpg&quot; title=&quot;This is an example image&quot;&gt;
 
       

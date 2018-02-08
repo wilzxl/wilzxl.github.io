@@ -5,8 +5,9 @@
     <entry>
       <title><![CDATA[Test for Markdown Grammer]]></title>
       <url>/2018/test/</url>
-      <content type="html"><![CDATA[<img src="/2018/test/img1.jpg" title="This is an example image">
-<p></p><p class="myPara"> Just a test!</p><br><a id="more"></a><br>Table：XMLHttpRequest.readyState<p></p>
+      <content type="html"><![CDATA[<p><img src="/test/img1.jpg" width="600" height="400" title="test"><br><a id="more"></a></p>
+<p>Another way to show images but can’t adjust size<br><img src="/2018/test/img1.jpg" title="This is an example image"></p>
+<p></p><p class="myPara"> Just a test!</p><br>Table：XMLHttpRequest.readyState<p></p>
 <table>
 <thead>
 <tr>
@@ -49,6 +50,8 @@
 <blockquote>
 <p>citation</p>
 </blockquote>
+<blockquote><p>[quote with author &amp; book]Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p>
+<footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>
 <ul>
 <li>one</li>
 <li>two</li>
